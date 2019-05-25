@@ -1,4 +1,6 @@
-# vuex_template
+# vuex_template 1
+
+***
 
 ## Project setup
 ```
