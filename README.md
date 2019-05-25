@@ -1,4 +1,5 @@
-# Vuex-template 2
+# Vuex template
+
 
 ## Project setup
 ```
